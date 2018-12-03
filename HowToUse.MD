@@ -1,5 +1,5 @@
 # install ffmpeg with GPU
-**install ffmpeg on ubuntu 16.04 with cuda 
+**install ffmpeg on ubuntu 16.04 with cuda**
 ## update nvidia driver
 
 ### uninstall old driver
