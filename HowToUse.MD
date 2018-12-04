@@ -50,19 +50,20 @@ apt-get update
 apt-get -y install autoconf automake build-essential libass-dev libfreetype6-dev \
   libsdl2-dev libtheora-dev libtool libva-dev libvdpau-dev libvorbis-dev libxcb1-dev libxcb-shm0-dev \
   libxcb-xfixes0-dev pkg-config texinfo zlib1g-dev
-  apt-get install yasm #版本为1.3
 
-apt-get install libx264-dev #版本为148
+apt-get install yasm 
+
+apt-get install libx264-dev 
 
 apt-get install libx265-dev
 
-apt-get install libvpx-dev #版本为1.5
+apt-get install libvpx-dev 
 
-apt-get install libfdk-aac-dev # 无版本要求
+apt-get install libfdk-aac-dev 
 
 apt-get install libmp3lame-dev
 
-apt-get install libopus-dev # 1.1.2
+apt-get install libopus-dev 
 
 apt-get -y install glew-utils libglew-dbg libglew-dev libglew1.13 \
   libglewmx-dev libglewmx-dbg freeglut3 freeglut3-dev freeglut3-dbg libghc-glut-dev \
